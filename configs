@@ -1,0 +1,7 @@
+.config/terminator
+.config/kicad
+.config/i3
+.gdbinit
+.gitconfig
+.vimrc
+.zshrc
